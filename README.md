@@ -8,6 +8,7 @@
 		* vis
 	* Dot net core
 		* https://docs.microsoft.com/en-us/ef/core/querying/raw-sql
+		* parameterized queries
 * SSL 
 	* Https vs Http
 	* Wireshark sniffing
