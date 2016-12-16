@@ -9,6 +9,7 @@
 	* Dot net core
 		* https://docs.microsoft.com/en-us/ef/core/querying/raw-sql
 		* parameterized queries
+			* https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/advanced
 * SSL 
 	* Https vs Http
 	* Wireshark sniffing
