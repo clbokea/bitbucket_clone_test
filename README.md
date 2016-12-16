@@ -4,6 +4,8 @@
 	* Validering
 * SQL Injectiion
 	* validering
+	* 1 mill wordpress
+		* vis
 * SSL 
 	* Https vs Http
 	* Wireshark sniffing
